@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About — kwaBulawayo</title>
+  <meta name="description" content="Learn what changed in the kwaBulawayo redesign and how the new city-guide structure is built to scale.">
+  <meta name="theme-color" content="#0b0f14">
+  <link rel="preconnect" href="https://images.kwabulawayo.com">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <script defer src="/assets/js/listings-data.js"></script>
+  <script defer src="/assets/js/app.js"></script>
+</head>
+<body >
+<header class="site-header">
+  <div class="container nav">
+    <a class="brand" href="/index.html"><b>kwaBulawayo</b><span>Bulawayo dining, coffee, culture and going-out guide</span></a>
+    <button class="menu-toggle" data-menu-toggle aria-expanded="false" aria-label="Open navigation">Menu</button>
+    <nav class="nav-links" data-menu>
+      <a class="" href="/index.html">Home</a>
+      <a class="" href="/listings.html">Listings</a>
+      <a class="active" href="/about.html">About</a>
+      <a class="" href="/contact.html">Contact</a>
+      <a class="btn secondary" href="/listings.html#explore">Explore the city</a>
+    </nav>
+  </div>
+</header>
+
+<section class="page-hero">
+  <div class="container about-grid">
+    <div>
+      <div class="eyebrow">About kwaBulawayo</div>
+      <h1>A stronger foundation for a real city guide.</h1>
+      <p class="lead">This redesign shifts the site away from placeholder rebuild language and toward a polished visitor experience. The structure is cleaner, the listing journey makes sense, and the visuals are now set up to feel modern and credible.</p>
+    </div>
+    <div class="panel">
+      <h3>Core improvements</h3>
+      <ul>
+        <li>Homepage rewritten for visitors instead of developers.</li>
+        <li>Listings page redesigned to feel like a working directory.</li>
+        <li>Individual pages generated for every listing in the sitemap.</li>
+        <li>Google Maps integration added across the site.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="container card-grid">
+    <div class="quick-card"><div class="eyebrow">Visual system</div><h3>Premium dark editorial look</h3><p>The new interface uses stronger hierarchy, spacious cards, clearer actions, and a more premium presentation.</p></div>
+    <div class="quick-card"><div class="eyebrow">Content strategy</div><h3>Generic where facts are not yet confirmed</h3><p>To avoid inaccuracies, listings stay deliberately concise until richer details like phone numbers, opening hours, and exact addresses are verified.</p></div>
+    <div class="quick-card"><div class="eyebrow">Scalability</div><h3>Ready for richer data later</h3><p>You can add a JSON feed, a CMS, or Cloudflare Worker endpoints later without replacing the current front end.</p></div>
+  </div>
+</section>
+<section class="section">
+  <div class="container about-grid">
+    <div class="panel"><h3>Image approach</h3><p>Listings support Cloudflare-hosted imagery through <code>images.kwabulawayo.com</code>. Where an image is not yet assigned, the layout uses a built-in placeholder instead of breaking.</p></div>
+    <div class="panel"><h3>What to add next</h3><p>Verified addresses, contact numbers, pricing cues, curated collections, seasonal guides, events, and a proper listing submission workflow.</p></div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <strong>kwaBulawayo</strong>
+      <p class="small">A cleaner, faster Bulawayo guide rebuilt for Cloudflare Pages with Google Maps handoff on every listing.</p>
+    </div>
+    <div>
+      <strong>Cloudflare image ready</strong>
+      <p class="small">Listing images can live on <code>images.kwabulawayo.com</code> and fall back gracefully where a direct asset is not yet assigned.</p>
+    </div>
+    <div>
+      <strong>Next step</strong>
+      <p class="small">You can now plug in richer images, phone numbers, editorial collections, and a real submission workflow without redesigning the front end again.</p>
+    </div>
+  </div>
+  <div class="container small" style="margin-top:1rem;">© <span class="js-year"></span> kwaBulawayo</div>
+</footer>
+</body>
+</html>

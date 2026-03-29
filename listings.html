@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Listings — kwaBulawayo</title>
+  <meta name="description" content="Explore Bulawayo listings with search, filters, individual detail pages, and Google Maps integration.">
+  <meta name="theme-color" content="#0b0f14">
+  <link rel="preconnect" href="https://images.kwabulawayo.com">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <script defer src="/assets/js/listings-data.js"></script>
+  <script defer src="/assets/js/app.js"></script>
+</head>
+<body >
+<header class="site-header">
+  <div class="container nav">
+    <a class="brand" href="/index.html"><b>kwaBulawayo</b><span>Bulawayo dining, coffee, culture and going-out guide</span></a>
+    <button class="menu-toggle" data-menu-toggle aria-expanded="false" aria-label="Open navigation">Menu</button>
+    <nav class="nav-links" data-menu>
+      <a class="" href="/index.html">Home</a>
+      <a class="active" href="/listings.html">Listings</a>
+      <a class="" href="/about.html">About</a>
+      <a class="" href="/contact.html">Contact</a>
+      <a class="btn secondary" href="/listings.html#explore">Explore the city</a>
+    </nav>
+  </div>
+</header>
+
+<section class="page-hero">
+  <div class="container page-grid">
+    <div>
+      <div class="eyebrow">Search, filter, discover</div>
+      <h1>Explore Bulawayo listings</h1>
+      <p class="lead">Browse cafés, restaurants, coffee spots, grills, bakeries, rooftops, and more. Each listing has its own page and a Google Maps action so visitors can move from discovery to direction instantly.</p>
+    </div>
+    <div class="panel">
+      <h3>What this page now does properly</h3>
+      <ul>
+        <li>Keyword search across names, categories, areas, and summaries.</li>
+        <li>Category and area filters.</li>
+        <li>Links to individual listing pages.</li>
+        <li>Google Maps handoff for location discovery.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+<section class="section" id="explore">
+  <div class="container listings-layout">
+    <div>
+      <div class="filter-shell">
+        <div class="filter-bar">
+          <div class="search-wrap"><input data-search placeholder="Search restaurants, cafés, coffee spots, rooftops, bakeries..."></div>
+          <select data-category><option value="">All categories</option></select>
+          <select data-area><option value="">All areas</option></select>
+          <a class="btn secondary" data-map-link href="https://www.google.com/maps/search/?api=1&query=Bulawayo%2C%20Zimbabwe" target="_blank" rel="noopener">Open map</a>
+        </div>
+        <div class="results-meta" data-results-meta></div>
+      </div>
+      <div class="grid" data-results style="margin-top:1rem;"></div>
+    </div>
+    <aside class="map-card">
+      <div class="map-stage">
+        <div>
+          <div class="eyebrow">Google Maps integration</div>
+          <h3 style="margin:.8rem 0 .35rem;">Map-ready picks</h3>
+          <p class="small">This panel gives users a fast path into Google Maps from the currently filtered set.</p>
+        </div>
+        <div class="map-grid" data-map-focus></div>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <strong>kwaBulawayo</strong>
+      <p class="small">A cleaner, faster Bulawayo guide rebuilt for Cloudflare Pages with Google Maps handoff on every listing.</p>
+    </div>
+    <div>
+      <strong>Cloudflare image ready</strong>
+      <p class="small">Listing images can live on <code>images.kwabulawayo.com</code> and fall back gracefully where a direct asset is not yet assigned.</p>
+    </div>
+    <div>
+      <strong>Next step</strong>
+      <p class="small">You can now plug in richer images, phone numbers, editorial collections, and a real submission workflow without redesigning the front end again.</p>
+    </div>
+  </div>
+  <div class="container small" style="margin-top:1rem;">© <span class="js-year"></span> kwaBulawayo</div>
+</footer>
+</body>
+</html>

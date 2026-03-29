@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact — kwaBulawayo</title>
+  <meta name="description" content="Contact kwaBulawayo to submit listings, suggest updates, and request future guide features.">
+  <meta name="theme-color" content="#0b0f14">
+  <link rel="preconnect" href="https://images.kwabulawayo.com">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <script defer src="/assets/js/listings-data.js"></script>
+  <script defer src="/assets/js/app.js"></script>
+</head>
+<body >
+<header class="site-header">
+  <div class="container nav">
+    <a class="brand" href="/index.html"><b>kwaBulawayo</b><span>Bulawayo dining, coffee, culture and going-out guide</span></a>
+    <button class="menu-toggle" data-menu-toggle aria-expanded="false" aria-label="Open navigation">Menu</button>
+    <nav class="nav-links" data-menu>
+      <a class="" href="/index.html">Home</a>
+      <a class="" href="/listings.html">Listings</a>
+      <a class="" href="/about.html">About</a>
+      <a class="active" href="/contact.html">Contact</a>
+      <a class="btn secondary" href="/listings.html#explore">Explore the city</a>
+    </nav>
+  </div>
+</header>
+
+<section class="page-hero">
+  <div class="container contact-grid">
+    <div>
+      <div class="eyebrow">Contact</div>
+      <h1>Submit a place, suggest an update, or ask for a feature.</h1>
+      <p class="lead">This page now has a cleaner enquiry flow. Right now it opens the user’s email app so the contact process works without needing a server-side form handler.</p>
+      <div class="notice" style="margin-top:1rem;">For a fully hosted form later, connect this page to Cloudflare Workers, Forms, Basin, Formspree, or your preferred backend.</div>
+    </div>
+    <div class="contact-card">
+      <form data-contact-form>
+        <label for="name">Name</label>
+        <input id="name" name="name" placeholder="Your name">
+        <label for="email">Email</label>
+        <input id="email" name="email" type="email" placeholder="you@example.com">
+        <label for="subject">Subject</label>
+        <input id="subject" name="subject" placeholder="Add my venue to kwaBulawayo">
+        <label for="message">Message</label>
+        <textarea id="message" name="message" placeholder="Tell kwaBulawayo what should be added, updated, or improved."></textarea>
+        <div class="action-row"><button type="submit">Open email draft</button></div>
+        <p class="small" data-form-status></p>
+      </form>
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="container card-grid">
+    <div class="quick-card"><h3>For venue owners</h3><p>Share your venue name, category, preferred image links, social pages, and the exact Google Maps destination you want associated with the listing.</p></div>
+    <div class="quick-card"><h3>For editorial ideas</h3><p>Suggest coffee trails, burger guides, brunch lists, rooftop roundups, hidden gems, or neighbourhood-based collections.</p></div>
+    <div class="quick-card"><h3>For corrections</h3><p>Send verified updates for names, addresses, or listing status so the guide becomes more accurate over time.</p></div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <strong>kwaBulawayo</strong>
+      <p class="small">A cleaner, faster Bulawayo guide rebuilt for Cloudflare Pages with Google Maps handoff on every listing.</p>
+    </div>
+    <div>
+      <strong>Cloudflare image ready</strong>
+      <p class="small">Listing images can live on <code>images.kwabulawayo.com</code> and fall back gracefully where a direct asset is not yet assigned.</p>
+    </div>
+    <div>
+      <strong>Next step</strong>
+      <p class="small">You can now plug in richer images, phone numbers, editorial collections, and a real submission workflow without redesigning the front end again.</p>
+    </div>
+  </div>
+  <div class="container small" style="margin-top:1rem;">© <span class="js-year"></span> kwaBulawayo</div>
+</footer>
+</body>
+</html>

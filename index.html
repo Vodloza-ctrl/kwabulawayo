@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>kwaBulawayo — Discover Bulawayo Better</title>
+  <meta name="description" content="A premium, static Bulawayo city guide with functional listings, Cloudflare-ready images, and Google Maps handoff.">
+  <meta name="theme-color" content="#0b0f14">
+  <link rel="preconnect" href="https://images.kwabulawayo.com">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <script defer src="/assets/js/listings-data.js"></script>
+  <script defer src="/assets/js/app.js"></script>
+</head>
+<body >
+<header class="site-header">
+  <div class="container nav">
+    <a class="brand" href="/index.html"><b>kwaBulawayo</b><span>Bulawayo dining, coffee, culture and going-out guide</span></a>
+    <button class="menu-toggle" data-menu-toggle aria-expanded="false" aria-label="Open navigation">Menu</button>
+    <nav class="nav-links" data-menu>
+      <a class="active" href="/index.html">Home</a>
+      <a class="" href="/listings.html">Listings</a>
+      <a class="" href="/about.html">About</a>
+      <a class="" href="/contact.html">Contact</a>
+      <a class="btn secondary" href="/listings.html#explore">Explore the city</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container hero-grid">
+    <div class="hero-panel" style="padding:1.5rem;">
+      <div class="eyebrow">Bulawayo city discovery, redesigned</div>
+      <h1>Find the places that make Bulawayo worth going out for.</h1>
+      <p class="lead">kwaBulawayo now has a cleaner structure, faster page load, usable listing discovery, and direct Google Maps handoff for every place. The confusing instructional text is gone. The experience is now built to feel editorial, premium, and easy to browse.</p>
+      <div class="hero-actions">
+        <a class="btn" href="/listings.html#explore">Browse all listings</a>
+        <a class="btn secondary" href="/about.html">See what changed</a>
+      </div>
+      <div class="social-proof">
+        <div class="metric"><strong>87</strong><span class="small">listings structured</span></div>
+        <div class="metric"><strong>Google Maps</strong><span class="small">linked from cards and detail pages</span></div>
+        <div class="metric"><strong>Cloudflare-ready</strong><span class="small">image domain support</span></div>
+      </div>
+    </div>
+    <div class="hero-card">
+      <img src="https://images.kwabulawayo.com/2025/06/hideout-1.webp" alt="Featured Bulawayo venue" onerror="this.style.display='none'">
+      <div class="overlay">
+        <strong>Designed to convert browsing into visits.</strong>
+        <div class="small">Search, filter, view listings, then jump straight into Google Maps for directions.</div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="container section-head">
+    <div>
+      <div class="eyebrow">What’s better now</div>
+      <h2>A proper city guide structure</h2>
+      <p class="lead">The homepage now leads with discovery, confidence, and clear actions instead of rebuild notes.</p>
+    </div>
+  </div>
+  <div class="container card-grid">
+    <div class="quick-card"><h3>Cleaner information architecture</h3><p>Home, listings, about, contact, and individual listing pages now have clearer purposes and stronger calls to action.</p></div>
+    <div class="quick-card"><h3>Google Maps integration</h3><p>Each listing now includes a direct Google Maps search link and a directions link on its detail page.</p></div>
+    <div class="quick-card"><h3>Graceful image handling</h3><p>Cloudflare-hosted images can be assigned listing by listing. Missing images no longer break the layout.</p></div>
+  </div>
+</section>
+<section class="section">
+  <div class="container section-head">
+    <div>
+      <div class="eyebrow">Featured places</div>
+      <h2>Start with a few strong picks</h2>
+      <p class="lead">The featured row gives the site an editorial feel while still feeding into the larger directory.</p>
+    </div>
+    <a href="/listings.html" class="btn secondary">See all listings</a>
+  </div>
+  <div class="container grid" data-featured></div>
+</section>
+<section class="section">
+  <div class="container about-grid">
+    <div class="panel">
+      <div class="eyebrow">Built for growth</div>
+      <h3>Ready for future categories and collections</h3>
+      <p>You can now expand into coffee guides, rooftop roundups, family spots, date-night picks, braai culture, and local experiences without rebuilding the site again.</p>
+    </div>
+    <div class="panel">
+      <div class="eyebrow">Built for trust</div>
+      <h3>Less noise, more confidence</h3>
+      <p>The site tone now speaks to real visitors. Technical rebuild language has been pushed into the background where it belongs.</p>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <strong>kwaBulawayo</strong>
+      <p class="small">A cleaner, faster Bulawayo guide rebuilt for Cloudflare Pages with Google Maps handoff on every listing.</p>
+    </div>
+    <div>
+      <strong>Cloudflare image ready</strong>
+      <p class="small">Listing images can live on <code>images.kwabulawayo.com</code> and fall back gracefully where a direct asset is not yet assigned.</p>
+    </div>
+    <div>
+      <strong>Next step</strong>
+      <p class="small">You can now plug in richer images, phone numbers, editorial collections, and a real submission workflow without redesigning the front end again.</p>
+    </div>
+  </div>
+  <div class="container small" style="margin-top:1rem;">© <span class="js-year"></span> kwaBulawayo</div>
+</footer>
+</body>
+</html>
