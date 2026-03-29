@@ -1,0 +1,1439 @@
+[
+  {
+    "name": "Hideout Cafe",
+    "category": "Restaurant",
+    "location": "Central Business District",
+    "description": "Within the  walls of Bulawayo's National Art Gallery, a hidden gem beckons. This breathtaking cafe is where art meets aroma, featu...",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/06/hideout-1.jpg",
+    "features": [
+      "dine in",
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/hideout-cafe/",
+    "lat": "-20.1531934",
+    "lng": "28.5826299",
+    "slug": "hideout-cafe",
+    "image_r2": "https://images.kwabulawayo.com/2025/06/hideout-1.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1531934,28.5826299"
+  },
+  {
+    "name": "Slice Pizzeria",
+    "category": "Pizzeria",
+    "location": "Central Business District",
+    "description": "Slice Pizzeria crafts traditional wood-fired pizzas with the finest crust and superb flavor blends, using only the freshest and mo...",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/06/slice-pizzeria.jpg",
+    "features": [
+      "indoor",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/slice-pizzeria/",
+    "lat": "-20.1537733",
+    "lng": "28.5850658",
+    "slug": "slice-pizzeria",
+    "image_r2": "https://images.kwabulawayo.com/2025/06/slice-pizzeria.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1537733,28.5850658"
+  },
+  {
+    "name": "Carne Casa",
+    "category": "Restaurant",
+    "location": "Central Business District",
+    "description": "Carne Casa brings a taste of Brazil to Zimbabwe, with a warm and intimate atmosphere in the heart of Bulawayo's CBD. This family-o...",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/06/feature-carne.jpg",
+    "features": [
+      "indoor",
+      "outdoor",
+      "store-pick-up"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/carne-casa-brazilian-steakhouse-bulawayo-zimbabwe/",
+    "lat": "-20.149411",
+    "lng": "28.5875661",
+    "slug": "carne-casa-brazilian-steakhouse-bulawayo-zimbabwe",
+    "image_r2": "https://images.kwabulawayo.com/2025/06/feature-carne.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.149411,28.5875661"
+  },
+  {
+    "name": "Dee & Noe Deli & Grill",
+    "category": "Braai & Shisanyama Spots",
+    "location": "Luveve",
+    "description": "Step into the vibrant heart of Luveve, affectionately known as 'ko Chigumira', and experience the ultimate braai haven. Savor the...",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/06/dee43.jpg",
+    "features": [
+      "indoor",
+      "outdoor",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/dee-noe-deli-grill/",
+    "lat": "-20.1122125",
+    "lng": "28.5136094",
+    "slug": "dee-noe-deli-grill",
+    "image_r2": "https://images.kwabulawayo.com/2025/06/dee43.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1122125,28.5136094"
+  },
+  {
+    "name": "Costa Café",
+    "category": "Restaurant",
+    "location": "Suburbs",
+    "description": "Mediterranean Restaurant and beverages . A great meeting place for: Coffee☕-Breakfast 🥐-Lunch- afternoon tea☕ takeaways (including...",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/06/509187787_17842402923519195_1410902105392073163_n.jpg",
+    "features": [
+      "dine in",
+      "indoor",
+      "store-pick-up",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/costa-cafe/",
+    "lat": "-20.16406",
+    "lng": "28.5994195",
+    "slug": "costa-cafe",
+    "image_r2": "https://images.kwabulawayo.com/2025/06/509187787_17842402923519195_1410902105392073163_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.16406,28.5994195"
+  },
+  {
+    "name": "KoMadamara / Sizalabo Butchery",
+    "category": "Braai & Shisanyama Spots",
+    "location": "Mzilikazi",
+    "description": "Savor the authentic taste of Bulawayo at this popular braai spot! Let them expertly grill your choice of meat to perfection. Enjoy...",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/06/pexels-igrejapreta-2491273-scaled.jpg",
+    "features": [],
+    "permalink": "https://kwabulawayo.shop/listings/komadamara-sizalabo-butchery/",
+    "lat": "-20.1310479",
+    "lng": "28.5708108",
+    "slug": "komadamara-sizalabo-butchery",
+    "image_r2": "https://images.kwabulawayo.com/2025/06/pexels-igrejapreta-2491273-scaled.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1310479,28.5708108"
+  },
+  {
+    "name": "Smoke & Vine",
+    "category": "Braai & Shisanyama Spots",
+    "location": "Hillside",
+    "description": "Family fun meets flavor at Smoke & Vine! Enjoy  signature braai meats, grilled to perfection, alongside tasty treats like ice...",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/06/smoke-and-vine.jpg",
+    "features": [
+      "indoor",
+      "outdoor",
+      "store-pick-up",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/smoke-vine/",
+    "lat": "-20.1975211",
+    "lng": "28.5909648",
+    "slug": "smoke-vine",
+    "image_r2": "https://images.kwabulawayo.com/2025/06/smoke-and-vine.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1975211,28.5909648"
+  },
+  {
+    "name": "Urban Grill",
+    "category": "Braai & Shisanyama Spots",
+    "location": "Central Business District",
+    "description": "Savor the authentic taste of Bulawayo at this popular braai spot! Let them expertly grill your choice of meat to perfection. Enjoy...",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/06/urban-grill.jpg",
+    "features": [],
+    "permalink": "https://kwabulawayo.shop/listings/urban-grill/",
+    "lat": "-20.156486",
+    "lng": "28.587097",
+    "slug": "urban-grill",
+    "image_r2": "https://images.kwabulawayo.com/2025/06/urban-grill.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.156486,28.587097"
+  },
+  {
+    "name": "Ko Samuriwo Pub n Grill",
+    "category": "Braai & Shisanyama Spots",
+    "location": "Luveve",
+    "description": "Savor the authentic taste of Bulawayo at this popular braai spot! Let them expertly grill your choice of meat to perfection. Enjoy...",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/06/kosamuriwo.jpg",
+    "features": [],
+    "permalink": "https://kwabulawayo.shop/listings/ko-samuriwo-pub-n-grill/",
+    "lat": "-20.1122125",
+    "lng": "28.5136094",
+    "slug": "ko-samuriwo-pub-n-grill",
+    "image_r2": "https://images.kwabulawayo.com/2025/06/kosamuriwo.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1122125,28.5136094"
+  },
+  {
+    "name": "Mazinyane",
+    "category": "Braai & Shisanyama Spots",
+    "location": "Bellevue",
+    "description": "Experience the authentic flavors of Bulawayo at Mazinyane, a Bellevue hotspot for meat enthusiasts. Savor tender, flavorful dishes...",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/06/pexels-minan1398-1482803-scaled.jpg",
+    "features": [
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/mazinyane/",
+    "lat": "-20.2025625",
+    "lng": "28.5494375",
+    "slug": "mazinyane",
+    "image_r2": "https://images.kwabulawayo.com/2025/06/pexels-minan1398-1482803-scaled.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.2025625,28.5494375"
+  },
+  {
+    "name": "Stop Over Bar & Restaurant",
+    "category": "Traditional / Local Cuisine",
+    "location": "Central Business District",
+    "description": "Savor the authentic flavors of traditional Zimbabwean cuisine at our cozy spot! Enjoy delicious meals grilled to perfection at our...",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/06/stoplogo.jpg",
+    "features": [
+      "outdoor",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/stop-over-bar-restaurant/",
+    "lat": "-20.1618673",
+    "lng": "28.5839875",
+    "slug": "stop-over-bar-restaurant",
+    "image_r2": "https://images.kwabulawayo.com/2025/06/stoplogo.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1618673,28.5839875"
+  },
+  {
+    "name": "The Homely House Restaurant & Bar",
+    "category": "Traditional / Local Cuisine",
+    "location": "Central Business District",
+    "description": "The Home Of Traditional Food, Healthy Delicacies and Drinks",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/06/homeleyu.webp",
+    "features": [
+      "indoor",
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/the-homely-house-restaurant-bar/",
+    "lat": "-20.1598261",
+    "lng": "28.5871757",
+    "slug": "the-homely-house-restaurant-bar",
+    "image_r2": "https://images.kwabulawayo.com/2025/06/homeleyu.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1598261,28.5871757"
+  },
+  {
+    "name": "The Place",
+    "category": "Restaurant",
+    "location": "Suburbs",
+    "description": "Looking for the perfect place to unwind? The Place offers a bar, restaurant, and garden experience you won't forget.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/06/496712672_17846191227471068_772038342868160873_n.jpg",
+    "features": [
+      "dine in",
+      "outdoor",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/the-place/",
+    "lat": "-20.1506709",
+    "lng": "28.5959374",
+    "slug": "the-place",
+    "image_r2": "https://images.kwabulawayo.com/2025/06/496712672_17846191227471068_772038342868160873_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1506709,28.5959374"
+  },
+  {
+    "name": "Epic Restaurant",
+    "category": "Restaurant",
+    "location": "Central Business District",
+    "description": "Experience full-service dining in the heart of Bulawayo’s City Centre. Halaal-certified, family & business friendly.",
+    "image": "",
+    "features": [
+      "indoor",
+      "reservations"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/epic-restaurant/",
+    "lat": "-20.151538",
+    "lng": "28.5818499",
+    "slug": "epic-restaurant",
+    "image_r2": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.151538,28.5818499"
+  },
+  {
+    "name": "Fairy Cafe",
+    "category": "Restaurant",
+    "location": "Central Business District",
+    "description": "Relax and refuel at charming cafés in Bulawayo’s CBD. Expect artisan coffee, freshly baked pastries, light meals, and stylish deco...",
+    "image": "",
+    "features": [
+      "dine in",
+      "indoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/fairy-cafe/",
+    "lat": "-20.1625798",
+    "lng": "28.5829213",
+    "slug": "fairy-cafe",
+    "image_r2": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1625798,28.5829213"
+  },
+  {
+    "name": "Playville Cafe",
+    "category": "Restaurant",
+    "location": "Central Business District",
+    "description": "CBD café with artsy vibe, beverages & kid-friendly seating in the heart of Bulawayo.",
+    "image": "",
+    "features": [
+      "dine in",
+      "indoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/playville-cafe/",
+    "lat": "-20.1651447",
+    "lng": "28.5817726",
+    "slug": "playville-cafe",
+    "image_r2": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1651447,28.5817726"
+  },
+  {
+    "name": "Haefelis Bulawayo",
+    "category": "Fast-food restaurant",
+    "location": "Central Business District",
+    "description": "Coffeehouse with breakfast, pastries, burgers & Arabica coffee in Bulawayo CBD.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/SnapInsta.to_36149119_2164842723752838_2893153424432431104_n.jpg",
+    "features": [
+      "store-pick-up"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/haefelis-bulawayo/",
+    "lat": "-20.1579829",
+    "lng": "28.5838453",
+    "slug": "haefelis-bulawayo",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/SnapInsta.to_36149119_2164842723752838_2893153424432431104_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1579829,28.5838453"
+  },
+  {
+    "name": "Royal Sunflower",
+    "category": "Takeaways",
+    "location": "Central Business District",
+    "description": "Quick, delicious, and affordable! These Bulawayo takeaways offer fast food favourites like chips, chicken, Russians, and burgers....",
+    "image": "",
+    "features": [
+      "store-pick-up"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/royal-sunflower/",
+    "lat": "-20.1394049",
+    "lng": "28.5917124",
+    "slug": "royal-sunflower",
+    "image_r2": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1394049,28.5917124"
+  },
+  {
+    "name": "Zarah Lounge",
+    "category": "Restaurant",
+    "location": "Central Business District",
+    "description": "Restaurant and Bar open during load shedding. Popular local spot on Robert Mugabe Way.",
+    "image": "",
+    "features": [
+      "indoor",
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/zarah-lounge/",
+    "lat": "-20.1590872",
+    "lng": "28.5863629",
+    "slug": "zarah-lounge",
+    "image_r2": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1590872,28.5863629"
+  },
+  {
+    "name": "Dickies Restaurant",
+    "category": "Traditional / Local Cuisine",
+    "location": "Central Business District",
+    "description": "Traditional restaurant offering the best service at an affordable price.",
+    "image": "",
+    "features": [
+      "indoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/dickies-restaurant/",
+    "lat": "-20.1591625",
+    "lng": "28.5877344",
+    "slug": "dickies-restaurant",
+    "image_r2": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1591625,28.5877344"
+  },
+  {
+    "name": "Sis Bee Kitchen",
+    "category": "Traditional / Local Cuisine",
+    "location": "Central Business District",
+    "description": "For the best traditional Cuisine in the city of Kings and Queens.",
+    "image": "",
+    "features": [
+      "dine in",
+      "indoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/sis-bee-kitchen/",
+    "lat": "-20.1561829",
+    "lng": "28.5825501",
+    "slug": "sis-bee-kitchen",
+    "image_r2": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1561829,28.5825501"
+  },
+  {
+    "name": "Phathi's Kitchen",
+    "category": "Traditional / Local Cuisine",
+    "location": "Central Business District",
+    "description": "Delicious local food, locally sourced produce, cooked in the traditional way.",
+    "image": "",
+    "features": [
+      "dine in",
+      "indoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/phathis-kitchen/",
+    "lat": "-20.1647073",
+    "lng": "28.5819055",
+    "slug": "phathis-kitchen",
+    "image_r2": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1647073,28.5819055"
+  },
+  {
+    "name": "Mumsie's Kitchen",
+    "category": "Traditional / Local Cuisine",
+    "location": "Kelvin Industrial Area",
+    "description": "A place that will remind you of home. Friendly staff, good food, clean and neat environment.",
+    "image": "",
+    "features": [
+      "indoor",
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/mumsies-kitchen/",
+    "lat": "-20.1568359",
+    "lng": "28.5231486",
+    "slug": "mumsies-kitchen",
+    "image_r2": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1568359,28.5231486"
+  },
+  {
+    "name": "Barcelos",
+    "category": "Restaurant",
+    "location": "Central Business District",
+    "description": "#1 Flame Grilled Chicken In Zimbabwe. Portuguese cuisine in the heart of Bulawayo CBD.",
+    "image": "",
+    "features": [
+      "dine in",
+      "indoor",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/barcelos/",
+    "lat": "-20.1569287",
+    "lng": "28.5831013",
+    "slug": "barcelos",
+    "image_r2": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1569287,28.5831013"
+  },
+  {
+    "name": "Nandos",
+    "category": "Restaurant",
+    "location": "Central Business District",
+    "description": "Born in South Africa and taken to the world. Nando's specialises in Portuguese-style, flamed-grilled chicken with PERi-PERi marinades.",
+    "image": "",
+    "features": [
+      "dine in",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/nandos/",
+    "lat": "-20.1529922",
+    "lng": "28.5839621",
+    "slug": "nandos",
+    "image_r2": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1529922,28.5839621"
+  },
+  {
+    "name": "KFC Bradfield",
+    "category": "Takeaways",
+    "location": "Bradfield",
+    "description": "Enjoy the colonel's famous Original Recipe chicken with 11 herbs and spices cooked to perfection.",
+    "image": "",
+    "features": [
+      "dine in",
+      "outdoor",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/kfc-bradfield/",
+    "lat": "-20.1791622",
+    "lng": "28.5931472",
+    "slug": "kfc-bradfield",
+    "image_r2": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1791622,28.5931472"
+  },
+  {
+    "name": "KFC Bulawayo Old Meikles Building",
+    "category": "Fast-food restaurant",
+    "location": "Central Business District",
+    "description": "Restaurant chain known for its buckets of fried chicken, plus combo meals & sides.",
+    "image": "",
+    "features": [
+      "delivery",
+      "indoor",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/kfc-bulawayo-old-meikles-building/",
+    "lat": "-20.1518318",
+    "lng": "28.5829978",
+    "slug": "kfc-bulawayo-old-meikles-building",
+    "image_r2": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1518318,28.5829978"
+  },
+  {
+    "name": "Oriental Pies",
+    "category": "Takeaways",
+    "location": "Central Business District",
+    "description": "Daily changing menu of delicious pies. Experience the unique flavors in the heart of Bulawayo.",
+    "image": "",
+    "features": [
+      "store-pick-up",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/oriental-pies/",
+    "lat": "-20.1561829",
+    "lng": "28.5825501",
+    "slug": "oriental-pies",
+    "image_r2": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1561829,28.5825501"
+  },
+  {
+    "name": "Ka Mandazi Restaurant",
+    "category": "Traditional / Local Cuisine",
+    "location": "Central Business District",
+    "description": "Traditional Zimbabwean Cuisine Restaurant with lovely food and friendly staff, a pleasure to have in the city of Bulawayo.",
+    "image": "",
+    "features": [
+      "indoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/kamandazi-restaurant-bulawayo/",
+    "lat": "-20.1394049",
+    "lng": "28.5917124",
+    "slug": "kamandazi-restaurant-bulawayo",
+    "image_r2": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1394049,28.5917124"
+  },
+  {
+    "name": "Ekhaya Takeaways",
+    "category": "Takeaways",
+    "location": "Central Business District",
+    "description": "Ekhaya is fast growing to be one of the nation's leading Fast Food Chains located in Bulawayo, Zvishavane, Gweru and Beitbridge.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/ekhaya.jpg",
+    "features": [
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/ekhaya-takeaways/",
+    "lat": "-20.151472",
+    "lng": "28.5806534",
+    "slug": "ekhaya-takeaways",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/ekhaya.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.151472,28.5806534"
+  },
+  {
+    "name": "Skies Meals",
+    "category": "Takeaways",
+    "location": "Central Business District",
+    "description": "Skies Meals provides meals in town specializing on Russian and chips combo, pies, chicken and chips.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/skies6.jpg",
+    "features": [
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/skies-meals/",
+    "lat": "-20.1500503",
+    "lng": "28.5874166",
+    "slug": "skies-meals",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/skies6.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1500503,28.5874166"
+  },
+  {
+    "name": "The Red Cafe",
+    "category": "Pub & Grill",
+    "location": "Central Business District",
+    "description": "Experience Zimbabwe's vibrant music scene at The Red Café in Bulawayo! Live bands perform every night of the week.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/red-cafe-logo.png",
+    "features": [
+      "dine in",
+      "indoor",
+      "live music"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/the-red-cafe/",
+    "lat": "-20.1601242",
+    "lng": "28.5844762",
+    "slug": "the-red-cafe",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/red-cafe-logo.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1601242,28.5844762"
+  },
+  {
+    "name": "3 Daughters - Jazz Restaurant and Pub",
+    "category": "Restaurant and Pub",
+    "location": "Khumalo",
+    "description": "3 Daughters Jazz Restaurant and Pub is a calm and serene, family-friendly food and drink outlet in the heart of Bulawayo.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/3-daughters.jpg",
+    "features": [
+      "indoor",
+      "live music"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/3-daughters-jazz-restaurant-and-pub/",
+    "lat": "-20.1418268",
+    "lng": "28.6167752",
+    "slug": "3-daughters-jazz-restaurant-and-pub",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/3-daughters.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1418268,28.6167752"
+  },
+  {
+    "name": "Verandah Cafe",
+    "category": "Cafés & Coffee Shops",
+    "location": "Malindela",
+    "description": "Relax and refuel at charming cafés in Bulawayo. Expect artisan coffee, freshly baked pastries, light meals, and stylish decor.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/465100370_1217319662856483_8340935748894330983_n-1.jpg",
+    "features": [
+      "dine in"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/verandah-cafe/",
+    "lat": "-20.1803007",
+    "lng": "28.600839",
+    "slug": "verandah-cafe",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/465100370_1217319662856483_8340935748894330983_n-1.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1803007,28.600839"
+  },
+  {
+    "name": "KweSintu Restaurant",
+    "category": "Traditional / Local Cuisine",
+    "location": "Central Business District",
+    "description": "Kwesintu Restaurant, Bulawayo's hidden gem, serving authentic Zimbabwean traditional cuisine made with the freshest locally sourced ingredients.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/kwesintu78.jpg",
+    "features": [
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/kwesintu-restaurant/",
+    "lat": "-20.1496067",
+    "lng": "28.5913618",
+    "slug": "kwesintu-restaurant",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/kwesintu78.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1496067,28.5913618"
+  },
+  {
+    "name": "Chelsea Cakes",
+    "category": "Bakeries & Cakes",
+    "location": "Bulawayo",
+    "description": "Chelsea Cakes is a wholly owned Zimbabwean brand based in Bulawayo. Amazing cakes & baked goods since 2018.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/saved-chelsea.jpg",
+    "features": [],
+    "permalink": "https://kwabulawayo.shop/listings/chelsea-cakes/",
+    "lat": "-20.1433349",
+    "lng": "28.5860392",
+    "slug": "chelsea-cakes",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/saved-chelsea.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1433349,28.5860392"
+  },
+  {
+    "name": "La Krème Restaurant",
+    "category": "Fine Dining",
+    "location": "Waterford",
+    "description": "Fine dining & Steakhouse with a Zimbabwean Twist. Strictly by advance booking. Private chef, events, decor, catering.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/150463736_426167315280189_5822879389591252611_n.jpg",
+    "features": [
+      "reservations only"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/la-kreme-restaurant/",
+    "lat": "-20.2283233",
+    "lng": "28.6600378",
+    "slug": "la-kreme-restaurant",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/150463736_426167315280189_5822879389591252611_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.2283233,28.6600378"
+  },
+  {
+    "name": "New Orleans Restaurant",
+    "category": "Fine Dining",
+    "location": "Hillside",
+    "description": "New Orleans has been a popular restaurant for the local folk in Bulawayo and Zimbabwe as a whole. Homely yet stylish at Banff Lodge.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/New-Orleans-Bulawayo-1.jpeg",
+    "features": [
+      "indoor",
+      "reservations"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/new-orleans-restaurant/",
+    "lat": "-20.189495",
+    "lng": "28.6087146",
+    "slug": "new-orleans-restaurant",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/New-Orleans-Bulawayo-1.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.189495,28.6087146"
+  },
+  {
+    "name": "Simply Delicious",
+    "category": "Restaurant",
+    "location": "Bulawayo",
+    "description": "Coffee Shop with outdoor tranquility dining, great drinks, great coffee and cakes. Delicious meals in peaceful comfort.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/simply-delicious.jpg",
+    "features": [
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/simply-delicious/",
+    "lat": "-20.2124133",
+    "lng": "28.6086577",
+    "slug": "simply-delicious",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/simply-delicious.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.2124133,28.6086577"
+  },
+  {
+    "name": "The Bowery Cafe",
+    "category": "Restaurant",
+    "location": "Suburbs",
+    "description": "Hidden gem with hearty meals, crafted coffee & family-friendly vibe on Pauling Road in Suburbs.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/the-bowery.jpg",
+    "features": [
+      "indoor",
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/the-bowery-cafe/",
+    "lat": "-20.151134",
+    "lng": "28.6041907",
+    "slug": "the-bowery-cafe",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/the-bowery.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.151134,28.6041907"
+  },
+  {
+    "name": "Surrey Deli",
+    "category": "Takeaways",
+    "location": "Central Business District",
+    "description": "Surrey Deli offers highly competitive pies and other goodies in the city of Bulawayo.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/about-surrey-deli.png",
+    "features": [
+      "store-pick-up",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/surrey-deli/",
+    "lat": "-20.1590872",
+    "lng": "28.5863629",
+    "slug": "surrey-deli",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/about-surrey-deli.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1590872,28.5863629"
+  },
+  {
+    "name": "Ten Takeaway Restaurant",
+    "category": "Takeaways",
+    "location": "Central Business District",
+    "description": "Fast food takeaway in the CBD of Bulawayo at Tenth Avenue & Robert Mugabe Way.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/ten-takeaway.jpg",
+    "features": [
+      "store-pick-up",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/ten-takeaway-restaurant/",
+    "lat": "-20.1394049",
+    "lng": "28.5917124",
+    "slug": "ten-takeaway-restaurant",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/ten-takeaway.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1394049,28.5917124"
+  },
+  {
+    "name": "Shake N’ Toss",
+    "category": "Vegan & Vegetarian",
+    "location": "Hillside",
+    "description": "100% raw ingredient meals, no preservatives. Dietician recommended. Healthy fresh food in Hillside.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/shakelogo.jpg",
+    "features": [
+      "indoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/shake-n-toss/",
+    "lat": "-20.1995296",
+    "lng": "28.5963591",
+    "slug": "shake-n-toss",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/shakelogo.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1995296,28.5963591"
+  },
+  {
+    "name": "Flavours Zimbabwe",
+    "category": "Juice & Smoothie Bars",
+    "location": "Hillside",
+    "description": "Fruity & Milky Boba, Ice Cream, Milkshakes & more at Hillside Shopping Centre. We searched the world for flavours.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/195430011_3980269462041136_7422670068233966041_n.jpg",
+    "features": [
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/flavours-zimbabwe/",
+    "lat": "-20.1941821",
+    "lng": "28.5952543",
+    "slug": "flavours-zimbabwe",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/195430011_3980269462041136_7422670068233966041_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1941821,28.5952543"
+  },
+  {
+    "name": "Something Sweet Cafe",
+    "category": "Bakeries & Cakes",
+    "location": "Suburbs",
+    "description": "Discover a delightful world of cakes, treats, and sweet temptations at Ascot Mall, Bulawayo. Celebration cakes available.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/something-sweet-cafe.jpg",
+    "features": [
+      "store-pick-up"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/something-sweet-cafe/",
+    "lat": "-20.167068",
+    "lng": "28.6608005",
+    "slug": "something-sweet-cafe",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/something-sweet-cafe.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.167068,28.6608005"
+  },
+  {
+    "name": "Nexus Rooftop",
+    "category": "Restaurant and Pub",
+    "location": "Central Business District",
+    "description": "Rooftop restaurant and bar in Bulawayo with stunning city views, breakfast deals & weekend braai at Pioneer House.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/nexus.jpg",
+    "features": [
+      "dine in",
+      "indoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/nexus-rooftop/",
+    "lat": "-20.1549981",
+    "lng": "28.5843209",
+    "slug": "nexus-rooftop",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/nexus.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1549981,28.5843209"
+  },
+  {
+    "name": "The Rooftop Restaurant",
+    "category": "Restaurant",
+    "location": "Central Business District",
+    "description": "The Rooftop Restaurant at Imbali Mall offers a range of dining options with local and international flavors.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/rooftop-w.jpg",
+    "features": [
+      "dine in",
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/the-rooftop-restaurant/",
+    "lat": "-20.1394049",
+    "lng": "28.5917124",
+    "slug": "the-rooftop-restaurant",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/rooftop-w.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1394049,28.5917124"
+  },
+  {
+    "name": "Karate Kitchen sushi/Chinese & Thai",
+    "category": "Chinese & Asian",
+    "location": "Hillside",
+    "description": "Authentic Chinese, Asian cuisine & sushi in elegant Hillside setting on Limerick Road.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/karatelogo.jpg",
+    "features": [
+      "dine in",
+      "delivery",
+      "indoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/karate-kitchen-sushi-chinese-thai/",
+    "lat": "-20.1995296",
+    "lng": "28.5963591",
+    "slug": "karate-kitchen-sushi-chinese-thai",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/karatelogo.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1995296,28.5963591"
+  },
+  {
+    "name": "Shangri-la Restaurant",
+    "category": "Chinese & Asian",
+    "location": "Suburbs",
+    "description": "Shangri-La brings the flavors of China to Bulawayo, serving Sweet & Sour Pork, Beef Chao Mein, and 25 bubble tea flavors.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/shangrila.jpg",
+    "features": [
+      "dine in",
+      "reservations"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/shangri-la-restaurant/",
+    "lat": "-20.1576375",
+    "lng": "28.6016719",
+    "slug": "shangri-la-restaurant",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/shangrila.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1576375,28.6016719"
+  },
+  {
+    "name": "Active Sushi",
+    "category": "Chinese & Asian",
+    "location": "Central Business District",
+    "description": "Active Sushi offers a unique fusion of flavors, blending fresh sushi, authentic Chinese dishes, and classic English favorites.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/active-sushi-1.jpg",
+    "features": [],
+    "permalink": "https://kwabulawayo.shop/listings/active-sushi/",
+    "lat": "-20.1959238",
+    "lng": "28.5926321",
+    "slug": "active-sushi",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/active-sushi-1.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1959238,28.5926321"
+  },
+  {
+    "name": "Ginge's Takeaway",
+    "category": "Restaurant",
+    "location": "Bulawayo",
+    "description": "Ginge's Kitchen is a popular Bulawayo eatery serving up delicious meals in a warm and welcoming atmosphere.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/305402380_507334761394630_1873578698212359876_n.jpg",
+    "features": [],
+    "permalink": "https://kwabulawayo.shop/listings/ginges-takeaway/",
+    "lat": "-20.1614339",
+    "lng": "28.5860977",
+    "slug": "ginges-takeaway",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/305402380_507334761394630_1873578698212359876_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1614339,28.5860977"
+  },
+  {
+    "name": "Mozambik",
+    "category": "Restaurant",
+    "location": "Suburbs",
+    "description": "The vibrant atmosphere at Mozambik is always alive. Friends and family gather for Mozambican-Portuguese cuisine & cocktails.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/SnapInsta.to_484509543_1128789075708201_8011604553894490857_n.jpg",
+    "features": [],
+    "permalink": "https://kwabulawayo.shop/listings/mozambik/",
+    "lat": "-20.1561575",
+    "lng": "28.6032687",
+    "slug": "mozambik",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/SnapInsta.to_484509543_1128789075708201_8011604553894490857_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1561575,28.6032687"
+  },
+  {
+    "name": "The Smokehouse Bulawayo",
+    "category": "Restaurant and Pub",
+    "location": "Hillside",
+    "description": "The Smokehouse Bulawayo is where the city's social scene ignites, set amidst the lush Busters Sports Club surroundings.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/SnapInsta.to_448013872_7310137359108903_6898189691980179141_n.jpg",
+    "features": [
+      "outdoor",
+      "live music"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/the-smokehouse-bulawayo/",
+    "lat": "-20.1812776",
+    "lng": "28.6034442",
+    "slug": "the-smokehouse-bulawayo",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/SnapInsta.to_448013872_7310137359108903_6898189691980179141_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1812776,28.6034442"
+  },
+  {
+    "name": "Indaba Book Cafe",
+    "category": "Cafés & Coffee Shops",
+    "location": "Central Business District",
+    "description": "In the heart of Bulawayo, a family-run cafe where royalty is made. Breakfasts, lunches, coffee & sweet treats.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/SnapInsta.to_502959532_18462689383078726_2732907474983834504_n.jpg",
+    "features": [
+      "indoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/indaba-book-cafe/",
+    "lat": "-20.1573773",
+    "lng": "28.5876961",
+    "slug": "indaba-book-cafe",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/SnapInsta.to_502959532_18462689383078726_2732907474983834504_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1573773,28.5876961"
+  },
+  {
+    "name": "Roasted Bean",
+    "category": "Cafés & Coffee Shops",
+    "location": "Central Business District",
+    "description": "Two locations with retro aesthetic, great coffee & satisfying meals on Tenth Ave in CBD.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/roasted-bean.jpg",
+    "features": [
+      "indoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/roasted-bean/",
+    "lat": "-20.1589875",
+    "lng": "28.5884844",
+    "slug": "roasted-bean",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/roasted-bean.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1589875,28.5884844"
+  },
+  {
+    "name": "Pizza Perfect",
+    "category": "Pizzeria",
+    "location": "North End",
+    "description": "A local Bulawayo pizza delivery service — free delivery to CBD, $1 fee for 10km radius.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/pizzaperfect.webp",
+    "features": [
+      "delivery"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/pizza-perfect/",
+    "lat": "-20.1338781",
+    "lng": "28.5880955",
+    "slug": "pizza-perfect",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/pizzaperfect.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1338781,28.5880955"
+  },
+  {
+    "name": "Zen Cafe",
+    "category": "Chinese & Asian",
+    "location": "Suburbs",
+    "description": "Indian-inspired cuisine with expertly brewed coffee in a serene setting on Clark Road, Suburbs.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/SnapInsta.to_489650037_580474835046071_4312820307467600695_n.jpg",
+    "features": [
+      "dine in",
+      "indoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/zen-cafe/",
+    "lat": "-20.1640501",
+    "lng": "28.5993793",
+    "slug": "zen-cafe",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/SnapInsta.to_489650037_580474835046071_4312820307467600695_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1640501,28.5993793"
+  },
+  {
+    "name": "The Balcony",
+    "category": "Pub & Grill",
+    "location": "Nkulumane",
+    "description": "The Balcony at Mnethi Shopping Centre in Nkulumane township offers a great music vibe and a casual dining experience.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/SnapInsta.to_264876022_451126316527377_5935981781587092519_n.jpg",
+    "features": [
+      "music"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/the-balcony/",
+    "lat": "-20.1854103",
+    "lng": "28.5248126",
+    "slug": "the-balcony",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/SnapInsta.to_264876022_451126316527377_5935981781587092519_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1854103,28.5248126"
+  },
+  {
+    "name": "The Krugers Bar, Restaurant and Car wash",
+    "category": "Restaurant and Pub",
+    "location": "Pumula South",
+    "description": "The Krugers Bar, Restaurant and Car Wash in Pumula South is a true celebration of township life — good food, vibrant culture.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/473759828_628074806400076_1952119946849587376_n-e1753020989323.jpg",
+    "features": [
+      "indoor",
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/the-krugers-bar-restaurant-and-car-wash/",
+    "lat": "-20.1614041",
+    "lng": "28.4776372",
+    "slug": "the-krugers-bar-restaurant-and-car-wash",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/473759828_628074806400076_1952119946849587376_n-e1753020989323.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1614041,28.4776372"
+  },
+  {
+    "name": "Xai Xai Authentic Mozambican Cuisine",
+    "category": "Restaurant",
+    "location": "Khumalo",
+    "description": "Xai Xai is a Mozambican-Portuguese restaurant at Ascot Mall, Bulawayo, offering a vibrant blend of Southern African flavors.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/Untitled-design-1.jpg",
+    "features": [
+      "dine in",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/xai-xai-authentic-mozambican-cuisine/",
+    "lat": "-20.1457125",
+    "lng": "28.5873388",
+    "slug": "xai-xai-authentic-mozambican-cuisine",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/Untitled-design-1.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1457125,28.5873388"
+  },
+  {
+    "name": "The Dragon Eats Pub and Grill",
+    "category": "Chinese & Asian",
+    "location": "Bulawayo",
+    "description": "Pub & grill with Asian-inspired dishes & classic favorites in Ilanda, Bulawayo.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/275974845_1226132387794936_2810788445037477844_n.jpg",
+    "features": [
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/the-dragon-eats-pub-and-grill/",
+    "lat": "-20.1760965",
+    "lng": "28.6105747",
+    "slug": "the-dragon-eats-pub-and-grill",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/275974845_1226132387794936_2810788445037477844_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1760965,28.6105747"
+  },
+  {
+    "name": "Nicolette’s Eatery & Bakery",
+    "category": "Bakeries & Cakes",
+    "location": "Montrose",
+    "description": "Nicolette’s Eatery & Bakery, at 67 Dundee Drive in Montrose, is a charming spot offering a unique and diverse menu.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/nicolette.jpg",
+    "features": [
+      "indoor",
+      "garden"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/nicolettes-eatery-bakery/",
+    "lat": "-20.1950953",
+    "lng": "28.5729088",
+    "slug": "nicolettes-eatery-bakery",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/nicolette.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1950953,28.5729088"
+  },
+  {
+    "name": "Rendezvous Bistro, Restaurant",
+    "category": "Bistro",
+    "location": "Woodlands",
+    "description": "Sunday Lunch Buffet in Fazak Home & Hyper. Roasts, salads, scones. A welcoming community spot in Woodlands.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/483027617_1887846631960214_834995296159957989_n-1.jpg",
+    "features": [
+      "dine in",
+      "buffet"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/rendezvous-bistro-restaurant/",
+    "lat": "-20.1698172",
+    "lng": "28.619018",
+    "slug": "rendezvous-bistro-restaurant",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/483027617_1887846631960214_834995296159957989_n-1.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1698172,28.619018"
+  },
+  {
+    "name": "Alfresco",
+    "category": "Bakeries & Cakes",
+    "location": "Hillside",
+    "description": "Tucked away in Bulawayo, Alfresco Bakery charms visitors with artisanal offerings. Sourdough, croissants & kiddies corner.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/521594563_18085041346837015_4824364716488775105_n.jpg",
+    "features": [
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/alfresco/",
+    "lat": "-20.202315",
+    "lng": "28.5995157",
+    "slug": "alfresco",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/521594563_18085041346837015_4824364716488775105_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.202315,28.5995157"
+  },
+  {
+    "name": "Meltz Cravings",
+    "category": "Food Truck",
+    "location": "Matsheumhlophe",
+    "description": "Vibrant food truck at Green Gardens in Matsheumhlophe, Bulawayo, serving up indulgent street food.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/507361798_122131342238703969_2486389179960272341_n-e1753329481387.jpg",
+    "features": [
+      "food truck"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/3216/",
+    "lat": "-20.1937982",
+    "lng": "28.6372034",
+    "slug": "3216",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/507361798_122131342238703969_2486389179960272341_n-e1753329481387.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1937982,28.6372034"
+  },
+  {
+    "name": "Fazi Food Factory",
+    "category": "Food Truck",
+    "location": "Matsheumhlophe",
+    "description": "Fazi Food Factory delivers mouthwatering street food creations from a mobile outlet at Green Gardens in Matsheumhlophe.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/4553ee33feacbd5781fa790348e9fa52tplv-tiktokx-cropcenter_1080_1080.jpeg",
+    "features": [
+      "food truck"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/fazi-food-factory/",
+    "lat": "-20.1937982",
+    "lng": "28.6372034",
+    "slug": "fazi-food-factory",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/4553ee33feacbd5781fa790348e9fa52tplv-tiktokx-cropcenter_1080_1080.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1937982,28.6372034"
+  },
+  {
+    "name": "Ndwangu Restaurant",
+    "category": "Traditional / Local Cuisine",
+    "location": "Central Business District",
+    "description": "Ndwangu Restaurant in Bulawayo’s CBD specialises in traditional Zimbabwean cuisine served with warmth and sadza with rich relishes.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/375130964_1307789526774470_1580213900533345997_n.jpg",
+    "features": [
+      "indoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/ndwangu-restaurant/",
+    "lat": "-20.151538",
+    "lng": "28.5818499",
+    "slug": "ndwangu-restaurant",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/375130964_1307789526774470_1580213900533345997_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.151538,28.5818499"
+  },
+  {
+    "name": "Food Bandits",
+    "category": "Food Truck",
+    "location": "Bulawayo",
+    "description": "Mobile catering for events with bold global flavors & quality ingredients. When it comes to events, Food Bandits deliver.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/10YRkxGX_400x400.jpg",
+    "features": [
+      "delivery",
+      "outdoor",
+      "catering"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/food-bandits/",
+    "lat": "-20.1323842",
+    "lng": "28.4929473",
+    "slug": "food-bandits",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/10YRkxGX_400x400.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1323842,28.4929473"
+  },
+  {
+    "name": "The Garden Bistro",
+    "category": "Bistro",
+    "location": "Suburbs",
+    "description": "Tucked away in leafy Suburbs, The Garden Bistro offers a peaceful retreat for diners seeking a relaxed atmosphere.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/Garden-Bistro.jpg",
+    "features": [
+      "indoor",
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/the-garden-bistro/",
+    "lat": "-20.1634258",
+    "lng": "28.5953475",
+    "slug": "the-garden-bistro",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/Garden-Bistro.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1634258,28.5953475"
+  },
+  {
+    "name": "La Cucina Bistro",
+    "category": "Bistro",
+    "location": "Suburbs",
+    "description": "LaCucina Byo was a vibrant culinary spot combining food, culture, and lifestyle in a stylish and contemporary setting.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/SnapInsta.to_337180258_1392613481495980_1947250795457503896_n.jpg",
+    "features": [],
+    "permalink": "https://kwabulawayo.shop/listings/la-cucina-bistro/",
+    "lat": "-20.1535868",
+    "lng": "28.6018458",
+    "slug": "la-cucina-bistro",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/SnapInsta.to_337180258_1392613481495980_1947250795457503896_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1535868,28.6018458"
+  },
+  {
+    "name": "Magos Burgers and Shakes",
+    "category": "Fast-food restaurant",
+    "location": "Central Business District",
+    "description": "Magos Burgers and Shakes is a fast food restaurant offering delicious, well-prepared meals at unbeatable prices.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/493323866_668414462607581_7988494061008348043_n.jpg",
+    "features": [
+      "store-pick-up",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/magos-burgers-and-shakes/",
+    "lat": "-20.1513991",
+    "lng": "28.5869955",
+    "slug": "magos-burgers-and-shakes",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/493323866_668414462607581_7988494061008348043_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1513991,28.5869955"
+  },
+  {
+    "name": "Carnivore Restaurant",
+    "category": "Restaurant",
+    "location": "Central Business District",
+    "description": "Carnivore Restaurant is a hidden gem offering a unique dining experience in a serene garden setting beside a local craft store.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/carnivore-e1753974986866.webp",
+    "features": [
+      "dine in",
+      "garden",
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/carnivore_restaurant/",
+    "lat": "-20.1614339",
+    "lng": "28.5860977",
+    "slug": "carnivore-restaurant",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/carnivore-e1753974986866.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1614339,28.5860977"
+  },
+  {
+    "name": "Greenspan Maboneng",
+    "category": "Restaurant and Pub",
+    "location": "Bulawayo",
+    "description": "Greenspan Maboneng is a lively bar and grill offering fire-kissed meals that bring bold flavour and authentic local flair.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/466927345_410831592096319_8327200604851202555_n.jpg",
+    "features": [
+      "live music",
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/greenspan-maboneng/",
+    "lat": "-20.0978692",
+    "lng": "28.5636834",
+    "slug": "greenspan-maboneng",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/466927345_410831592096319_8327200604851202555_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.0978692,28.5636834"
+  },
+  {
+    "name": "Kings Kraal Bulawayo",
+    "category": "Restaurant and Pub",
+    "location": "Bradfield",
+    "description": "Kings Kraal offers a refined dining experience in Bulawayo, combining quality cuisine with a welcoming atmosphere.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/08/358101450_1235043750530574_3343036792681557228_n.jpg",
+    "features": [
+      "dine in",
+      "garden",
+      "live music"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/kings-kraal-bulawayo/",
+    "lat": "-20.1759031",
+    "lng": "28.589646",
+    "slug": "kings-kraal-bulawayo",
+    "image_r2": "https://images.kwabulawayo.com/2025/08/358101450_1235043750530574_3343036792681557228_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1759031,28.589646"
+  },
+  {
+    "name": "Rooster’s Pub and Grill",
+    "category": "Pub & Grill",
+    "location": "Bradfield",
+    "description": "Roosters Pub & Grill is a popular Bulawayo restaurant and bar in the Chinos Zonki Zizwe Shopping Complex on Hillside Road.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/08/316540035_656312522931705_7104144557434068842_n.jpg",
+    "features": [
+      "indoor",
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/roosters-pub-and-grill/",
+    "lat": "-20.1759031",
+    "lng": "28.589646",
+    "slug": "roosters-pub-and-grill",
+    "image_r2": "https://images.kwabulawayo.com/2025/08/316540035_656312522931705_7104144557434068842_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1759031,28.589646"
+  },
+  {
+    "name": "Brooks Cafe & Deli Bulawayo",
+    "category": "Cafés & Coffee Shops",
+    "location": "Bradfield",
+    "description": "Brooks Cafe & Deli Bulawayo offers a welcoming space with great coffee, deli items and a relaxed atmosphere in Bradfield.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/08/301137876_517808840191435_2298890590767519556_n.png",
+    "features": [
+      "dine in",
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/brooks-cafe-deli-bulawayo/",
+    "lat": "-20.1759031",
+    "lng": "28.589646",
+    "slug": "brooks-cafe-deli-bulawayo",
+    "image_r2": "https://images.kwabulawayo.com/2025/08/301137876_517808840191435_2298890590767519556_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1759031,28.589646"
+  },
+  {
+    "name": "Pizza Hut Bulawayo",
+    "category": "Pizzeria",
+    "location": "Bradfield",
+    "description": "Pizza Hut Bulawayo brings the world's best loved pizza brand to Zimbabwe with delivery and dine-in options in Bradfield.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/08/387753962_677767664328931_7226007821776085745_n.jpg",
+    "features": [
+      "delivery",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/pizza-hut-bulawayo/",
+    "lat": "-20.1759031",
+    "lng": "28.589646",
+    "slug": "pizza-hut-bulawayo",
+    "image_r2": "https://images.kwabulawayo.com/2025/08/387753962_677767664328931_7226007821776085745_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1759031,28.589646"
+  },
+  {
+    "name": "Just Breathe Cafe",
+    "category": "Cafés & Coffee Shops",
+    "location": "Malindela",
+    "description": "Just Breathe, a recently opened café nestled within the Mater Dei Hospital complex in Malindela, Bulawayo.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/08/441954422_122096565446336503_372658214364401038_n.jpg",
+    "features": [
+      "outdoor",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/just-breathe-cafe/",
+    "lat": "-20.1804774",
+    "lng": "28.5965856",
+    "slug": "just-breathe-cafe",
+    "image_r2": "https://images.kwabulawayo.com/2025/08/441954422_122096565446336503_372658214364401038_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1804774,28.5965856"
+  },
+  {
+    "name": "Pilgrim Coffee Company",
+    "category": "Cafés & Coffee Shops",
+    "location": "Central Business District",
+    "description": "Pilgrim Coffee Company champions exceptional Zimbabwean-origin coffee through direct trade in the heart of Bulawayo CBD.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/08/SnapInsta.to_453650548_1172082064341063_4866894732742625097_n.jpg",
+    "features": [
+      "store-pick-up"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/pilgrim-coffee-company/",
+    "lat": "-20.1697304",
+    "lng": "28.5818479",
+    "slug": "pilgrim-coffee-company",
+    "image_r2": "https://images.kwabulawayo.com/2025/08/SnapInsta.to_453650548_1172082064341063_4866894732742625097_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1697304,28.5818479"
+  },
+  {
+    "name": "Coffee & Juice Cafe",
+    "category": "Cafés & Coffee Shops",
+    "location": "Bulawayo",
+    "description": "Located at Ascot in Bulawayo, Coffee & Juice Café offers freshly brewed coffee, refreshing juices and a welcoming atmosphere.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/08/305693002_480838404050348_1202476520431863349_n.jpg",
+    "features": [],
+    "permalink": "https://kwabulawayo.shop/listings/coffee-juice-cafe/",
+    "lat": "-20.1599093",
+    "lng": "28.6109566",
+    "slug": "coffee-juice-cafe",
+    "image_r2": "https://images.kwabulawayo.com/2025/08/305693002_480838404050348_1202476520431863349_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1599093,28.6109566"
+  },
+  {
+    "name": "Middy's Coffee Shop",
+    "category": "Cafés & Coffee Shops",
+    "location": "Central Business District",
+    "description": "Middy’s Coffee Shop proudly lives up to its tagline: “The BEST coffee shop in town!” Located in Bulawayo CBD.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/08/259865871_4424051361005236_1141181723879317951_n.jpg",
+    "features": [],
+    "permalink": "https://kwabulawayo.shop/listings/middys-coffee-shop/",
+    "lat": "-20.1637643",
+    "lng": "28.5864401",
+    "slug": "middys-coffee-shop",
+    "image_r2": "https://images.kwabulawayo.com/2025/08/259865871_4424051361005236_1141181723879317951_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1637643,28.5864401"
+  },
+  {
+    "name": "Ten On Brooke",
+    "category": "Restaurant and Pub",
+    "location": "Selbourne",
+    "description": "Ten on Brooke is a boutique hotel and B&B offering a refined blend of luxury, leisure, and comfort in serene Selborne.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/08/SnapInsta.to_229142645_1134899990337930_8566889048996074844_n.jpg",
+    "features": [
+      "indoor",
+      "outdoor"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/ten-on-brooke/",
+    "lat": "-20.167531",
+    "lng": "28.62208",
+    "slug": "ten-on-brooke",
+    "image_r2": "https://images.kwabulawayo.com/2025/08/SnapInsta.to_229142645_1134899990337930_8566889048996074844_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.167531,28.62208"
+  },
+  {
+    "name": "Fortunes Gate Lodge",
+    "category": "Restaurant and Pub",
+    "location": "Matsheumhlophe",
+    "description": "Fortunes Gate Lodge invites guests to Dine with Us at The Village Library, an exceptional dining experience.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/08/SnapInsta.to_387790587_3602043526714318_7362719589710851060_n.jpg",
+    "features": [
+      "reservations"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/fortunes-gate-lodge/",
+    "lat": "-20.2018799",
+    "lng": "28.6323132",
+    "slug": "fortunes-gate-lodge",
+    "image_r2": "https://images.kwabulawayo.com/2025/08/SnapInsta.to_387790587_3602043526714318_7362719589710851060_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.2018799,28.6323132"
+  },
+  {
+    "name": "DaVinci Grill",
+    "category": "Restaurant",
+    "location": "Central Business District",
+    "description": "Restaurant in the Bulawayo CBD offering a varied menu in a welcoming environment.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/07/vecteezy_smiling-african-american-female-chef-holding-oven-mitt_27214914-e1753564644533.jpg",
+    "features": [],
+    "permalink": "https://kwabulawayo.shop/listings/davinci-grill/",
+    "lat": "-20.1614144",
+    "lng": "28.5802495",
+    "slug": "davinci-grill",
+    "image_r2": "https://images.kwabulawayo.com/2025/07/vecteezy_smiling-african-american-female-chef-holding-oven-mitt_27214914-e1753564644533.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1614144,28.5802495"
+  },
+  {
+    "name": "Good Bite Restaurant",
+    "category": "Traditional / Local Cuisine",
+    "location": "Central Business District",
+    "description": "Good Bite Restaurant offers dining and catering, specialising in weddings, corporate events, and daily delivered meals.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/08/446863962_122095113248346582_2980030318704166282_n.jpg",
+    "features": [
+      "indoor",
+      "outdoor",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/good-bite-restaurant/",
+    "lat": "-20.151538",
+    "lng": "28.5818499",
+    "slug": "good-bite-restaurant",
+    "image_r2": "https://images.kwabulawayo.com/2025/08/446863962_122095113248346582_2980030318704166282_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.151538,28.5818499"
+  },
+  {
+    "name": "Centurion Bar & Grill",
+    "category": "Pub & Grill",
+    "location": "Central Business District",
+    "description": "Centurion Bar & Grill offers a great pub atmosphere with outdoor heated seating, ambient lighting and live music in CBD.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/08/439915138_122133623552229902_867031478627240424_n.jpg",
+    "features": [
+      "outdoor",
+      "balcony"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/centurion-bar-grill/",
+    "lat": "-20.1456231",
+    "lng": "28.5883006",
+    "slug": "centurion-bar-grill",
+    "image_r2": "https://images.kwabulawayo.com/2025/08/439915138_122133623552229902_867031478627240424_n.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1456231,28.5883006"
+  },
+  {
+    "name": "Oasis Restaurant",
+    "category": "Traditional / Local Cuisine",
+    "location": "Central Business District",
+    "description": "Oasis Restaurant in Bulawayo offers a welcoming dining experience with a focus on comfort, quality, and variety.",
+    "image": "https://kwabulawayo.shop/wp-content/uploads/2025/08/5NTGuvfg_400x400.jpg",
+    "features": [
+      "indoor",
+      "takeaway"
+    ],
+    "permalink": "https://kwabulawayo.shop/listings/oasis-restaurant/",
+    "lat": "-20.1589927",
+    "lng": "28.5822381",
+    "slug": "oasis-restaurant",
+    "image_r2": "https://images.kwabulawayo.com/2025/08/5NTGuvfg_400x400.webp",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=-20.1589927,28.5822381"
+  }
+]
